@@ -4,4 +4,6 @@ This repo is a visual index the default visualizations included with the [Lightn
 
 Want to make your own visualization? Read the instructions [here](). If you've made something you like, feel free to submit a PR to add it to the defaults here.
 
-[![Graph](http://github.com/lightning-viz/lightning-graph)](images/graph.png)
+[![adjacency](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/adjacency.png)](https://github.com/lightning-viz/lightning-adjacency)
+
+[![line](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/line.png)](https://github.com/lightning-viz/lightning-line)

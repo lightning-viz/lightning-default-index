@@ -5,7 +5,13 @@ This is a visual index of the visualizations included with the [Lightning](http:
 Want to make your own visualization? Read the instructions [here](). If you've made something you like, feel free to submit a PR to add it to the defaults here.
 
 [![adjacency](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/adjacency.png)](https://github.com/lightning-viz/lightning-adjacency)
-[![line](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/line.png)](https://github.com/lightning-viz/lightning-line)
 [![force](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/force.png)](https://github.com/lightning-viz/lightning-force)
-[![graph-bundled](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/graph-bundled.png)](https://github.com/lightning-viz/lightning-graph-bundled)
 [![gallery](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/gallery.png)](https://github.com/lightning-viz/lightning-gallery)
+[![graph-bundled](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/graph-bundled.png)](https://github.com/lightning-viz/lightning-graph-bundled)
+[![graph](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/graph.png)](https://github.com/lightning-viz/lightning-graph)
+[![line](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/line.png)](https://github.com/lightning-viz/lightning-line)
+[![image](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/image.png)](https://github.com/lightning-viz/lightning-image)
+[![map](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/map.png)](https://github.com/lightning-viz/lightning-map)
+[![map](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/map.png)](https://github.com/lightning-viz/lightning-map)
+[![matrix](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/matrix.png)](https://github.com/lightning-viz/lightning-matrix)
+[![scatter](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/scatter.png)](https://github.com/lightning-viz/lightning-scatter)

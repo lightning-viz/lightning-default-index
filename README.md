@@ -6,6 +6,7 @@ Each visualization is its own [`npm module`](https://www.npmjs.com/search?q=ligh
 
 Want to make your own visualization? Read the instructions [here](). If you've made something you like, submit a PR to this repo with a link and we'll consider adding it as a default!
 
+<br>
 [![adjacency](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/adjacency.png)](https://github.com/lightning-viz/lightning-adjacency)
 [![force](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/force.png)](https://github.com/lightning-viz/lightning-force)
 [![gallery](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/gallery.png)](https://github.com/lightning-viz/lightning-gallery)

@@ -5,5 +5,7 @@ This repo is a visual index the default visualizations included with the [Lightn
 Want to make your own visualization? Read the instructions [here](). If you've made something you like, feel free to submit a PR to add it to the defaults here.
 
 [![adjacency](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/adjacency.png)](https://github.com/lightning-viz/lightning-adjacency)
-
 [![line](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/line.png)](https://github.com/lightning-viz/lightning-line)
+[![force](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/force.png)](https://github.com/lightning-viz/lightning-force)
+[![graph-bundled](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/graph-bundled.png)](https://github.com/lightning-viz/lightning-graph-bundled)
+[![gallery](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/gallery.png)](https://github.com/lightning-viz/lightning-gallery)

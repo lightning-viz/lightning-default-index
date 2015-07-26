@@ -12,6 +12,5 @@ Want to make your own visualization? Read the instructions [here](). If you've m
 [![line](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/line.png)](https://github.com/lightning-viz/lightning-line)
 [![image](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/image.png)](https://github.com/lightning-viz/lightning-image)
 [![map](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/map.png)](https://github.com/lightning-viz/lightning-map)
-[![map](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/map.png)](https://github.com/lightning-viz/lightning-map)
 [![matrix](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/matrix.png)](https://github.com/lightning-viz/lightning-matrix)
 [![scatter](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/scatter.png)](https://github.com/lightning-viz/lightning-scatter)

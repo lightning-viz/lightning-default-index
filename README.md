@@ -1,6 +1,6 @@
 Visualization index
 -------------------
-This is a visual index of the visualizations included with the [`lightning`](http://github.com/lightning-viz/lightning) server by default. Each visualization is an [`npm module`](https://www.npmjs.com/search?q=lightning-visualization). 
+This is an index of the visualizations included with the [`lightning`](http://github.com/lightning-viz/lightning) server by default. Each visualization is its own [`npm module`](https://www.npmjs.com/search?q=lightning-visualization). 
 
 Want to make your own visualization? Read the instructions [here](). If you've made something you like, feel free to submit a PR to add it to the defaults here.
 

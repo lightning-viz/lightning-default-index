@@ -8,6 +8,7 @@ Want to make your own visualization? Read the instructions [here](). If you've m
 
 <br>
 [![scatter](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/scatter.png)](https://github.com/lightning-viz/lightning-scatter)
+[![scatter](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/scatter-streaming.png)](https://github.com/lightning-viz/lightning-scatter-streaming)
 [![line](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/line.png)](https://github.com/lightning-viz/lightning-line)
 [![map](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/map.png)](https://github.com/lightning-viz/lightning-map)
 [![force](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/force.png)](https://github.com/lightning-viz/lightning-force)

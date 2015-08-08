@@ -10,6 +10,7 @@ Want to make your own visualization? Read the instructions [here](). If you've m
 [![scatter](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/scatter.png)](https://github.com/lightning-viz/lightning-scatter)
 [![scatter](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/scatter-streaming.png)](https://github.com/lightning-viz/lightning-scatter-streaming)
 [![line](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/line.png)](https://github.com/lightning-viz/lightning-line)
+[![line-streaming](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/line-streaming.gif)](https://github.com/lightning-viz/lightning-line-streaming)
 [![force](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/force.png)](https://github.com/lightning-viz/lightning-force)
 [![graph-bundled](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/graph-bundled.png)](https://github.com/lightning-viz/lightning-graph-bundled)
 [![graph](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/graph.png)](https://github.com/lightning-viz/lightning-graph)

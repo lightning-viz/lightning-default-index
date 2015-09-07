@@ -23,3 +23,4 @@ Want to make your own visualization? Read the instructions [here](). If you've m
 [![adjacency](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/adjacency.png)](https://github.com/lightning-viz/lightning-adjacency)
 [![scatter-3](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/scatter-3.png)](https://github.com/lightning-viz/lightning-scatter-3)
 [![volume](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/volume.png)](https://github.com/lightning-viz/lightning-volume)
+[![histogram](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/histogram.png)](https://github.com/lightning-viz/lightning-histogram)

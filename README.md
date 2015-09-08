@@ -9,6 +9,7 @@ Want to make your own visualization? Read the instructions [here](). If you've m
 <br>
 [![scatter](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/scatter.png)](https://github.com/lightning-viz/lightning-scatter)
 [![scatter-streaming](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/scatter-streaming.gif)](https://github.com/lightning-viz/lightning-scatter-streaming)
+[![circle](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/circle.png)](https://github.com/lightning-viz/lighning-circle)
 [![line](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/line.png)](https://github.com/lightning-viz/lightning-line)
 [![line-streaming](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/line-streaming.gif)](https://github.com/lightning-viz/lightning-line-streaming)
 [![force](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/force.png)](https://github.com/lightning-viz/lightning-force)
@@ -22,3 +23,4 @@ Want to make your own visualization? Read the instructions [here](). If you've m
 [![adjacency](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/adjacency.png)](https://github.com/lightning-viz/lightning-adjacency)
 [![scatter-3](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/scatter-3.png)](https://github.com/lightning-viz/lightning-scatter-3)
 [![volume](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/volume.png)](https://github.com/lightning-viz/lightning-volume)
+[![histogram](https://raw.githubusercontent.com/lightning-viz/lightning-default-index/master/thumbnails/histogram.png)](https://github.com/lightning-viz/lightning-histogram)
